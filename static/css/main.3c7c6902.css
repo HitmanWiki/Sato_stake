@@ -2516,7 +2516,7 @@ video {
 
 .bg-\[\#182b48\] {
     --tw-bg-opacity: 1;
-    background-color: #af5604
+    background-color: #FD8004
 }
 
 .bg-\[\#212121\] {
@@ -2554,7 +2554,7 @@ video {
 
 .bg-blue-500 {
     --tw-bg-opacity: 1;
-    background-color: rgb(33 150 243/var(--tw-bg-opacity))
+    background-color: #FD8004
 }
 
 .bg-blue-500\/10 {
@@ -3594,12 +3594,20 @@ video {
 
 .text-gray-100 {
     --tw-text-opacity: 1;
-    color: rgb(245 245 245/var(--tw-text-opacity))
+    color: white;
+    font-size: 1.25rem;
+    /* Makes text bigger (adjust value as needed) */
+    font-weight: 700;
+    /* Makes text bolder (700 is typically "bold") */
 }
 
 .text-gray-200 {
     --tw-text-opacity: 1;
-    color: rgb(238 238 238/var(--tw-text-opacity))
+    color: white;
+    font-size: 1.25rem;
+    /* Makes text bigger (adjust value as needed) */
+    font-weight: 700;
+    /* Makes text bolder (700 is typically "bold") */
 }
 
 .text-gray-300 {
@@ -3609,7 +3617,11 @@ video {
 
 .text-gray-500 {
     --tw-text-opacity: 1;
-    color: rgb(158 158 158/var(--tw-text-opacity))
+    color: white;
+    font-size: 1.25rem;
+    /* Makes text bigger (adjust value as needed) */
+    font-weight: 700;
+    /* Makes text bolder (700 is typically "bold") */
 }
 
 .text-gray-600 {
@@ -3787,7 +3799,13 @@ video {
 
 .text-white {
     --tw-text-opacity: 1;
-    color: rgb(255 255 255/var(--tw-text-opacity))
+    color: white;
+
+    font-size: 1.25rem;
+    /* Makes text bigger (adjust value as needed) */
+    font-weight: 700;
+    /* Makes text bolder (700 is typically "bold") */
+
 }
 
 .text-yellow-500 {
@@ -4208,7 +4226,7 @@ input[type=number] {
 }
 
 body {
-    background-color: #040b0f;
+    background-color: #97D5F3;
     color: #f8f8f9
 }
 
